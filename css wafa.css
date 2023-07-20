@@ -1,0 +1,11 @@
+body {font-family:Oswald}
+    .pill-nav a {display: inline-block; color: #ffffff; text-align: center;padding: 14px;
+                text-decoration: none;font-size: 17px;border-radius: 5px;}
+    
+    .pill-nav a:hover {background-color: #330C2F;color: rgb(255, 255, 255);}
+    
+    .pill-nav a.active {
+      background-color: #8CC7A1;
+      color: white;}
+    
+footer{background-color: #330C2F;font-family: Open sans;color: white; column-span:2; align-items:center;}
